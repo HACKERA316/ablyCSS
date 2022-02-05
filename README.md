@@ -1,6 +1,8 @@
 # Welcome to ablycss
 With this css document, you can customize your site as you wish. You can also easily create a button login form and the best part is that you can use your own color when choosing a color.
 for more information [click](docs/docs.md)
+----
+[click to use on website "jsdelivr"](https://www.jsdelivr.com/package/gh/HACKERA316/ablycss-cli)
 ## use of ably-css
 ---
 1. **[use of color](docs/colors.md)**
