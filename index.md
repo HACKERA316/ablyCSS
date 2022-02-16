@@ -1,4 +1,4 @@
-## ably-css Welcome
+## ablycss-cli reposuna hoşgeldin
 
 # nedir bu ablycss-cli?
 bu css kütüphanesi css yazımını kolaylaştırarak daha verimli bir şekilde kullanmanızı yarar.
