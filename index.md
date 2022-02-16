@@ -1,12 +1,12 @@
-## ably-css hoşgeldin
+## ably-css Welcome
 
 github sayfasına gidin [ablycss-cli css gidin](https://github.com/HACKERA316/ablycss-cli)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-[tr](tr)
-[en](en)
+[tr](tr.md)
+[en](en.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
