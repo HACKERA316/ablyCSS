@@ -1,4 +1,4 @@
-## <p style="text-align:center; color:blue;">ablycss-cli reposuna hoşgeldin</p>
+## ablycss-cli reposouna hoşgeldin!
 
 # nedir bu ablycss-cli?
 bu css kütüphanesi css yazımını kolaylaştırarak daha verimli bir şekilde kullanmanızı yarar.
