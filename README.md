@@ -3,26 +3,8 @@ With this css document, you can customize your site as you wish. You can also ea
 for more information [click](docs/docs.md)
 ----
 [click to use on website "jsdelivr"](https://www.jsdelivr.com/package/gh/HACKERA316/ablycss-cli)
-## use of ably-css
----
-1. **[use of color](docs/colors.md)**
-2. **[use of background](colors.md)**
-   - [backgrund color use of new class](colors.md)
-   - [backgrund color import](colors.md)
-   - [backgrund color use of new css file import](colors.md)
-3. **[use of font](colors.md)**
-   - [font use of new class](colors.md)
-   - [font import](colors.md)
-   - [font use of new css file import](colors.md)
-4. **[use of contents](colors.md)**
-5. **[use of input-forms](colors.md)**
-6. **[use of header](colors.md)**
-7. **[use of foother](colors.md)**
-8. **[use of mobile menu](colors.md)**
-9. **[use of new class](colors.md)**
 
----
-
+[to click](https://hackera316.github.io/ablycss-cli)
 
 ![](img/ablycss.svg)
 
