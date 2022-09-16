@@ -5,3 +5,10 @@
 /license: copyright | is copyrighted software | GNU General Public License
 /warning:This software is open source, but reproduction, copying, sale, distribution of this software is prohibited. HACKERA316(ably)
 */
+@import 'scss/general';
+@import 'scss/mixins';
+
+
+body {
+  @include resetablycss(0, 0, border-box, none, 10px, solid, white, 20px, 200, Roboto);
+}

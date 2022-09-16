@@ -1,0 +1,10 @@
+@mixin resetablycss($margin-margin:null, $padding-padding:null, $box-sizing:null, $text-decoration:null, $border-size, $border-borderrole, $border-color, $font-size:null, $font-weight:null, $font-family:null) {
+  margin: $margin-margin;
+  padding: $padding-padding;
+  box-sizing: $box-sizing;
+  text-decoration: $text-decoration;
+  border: $border-size $border-borderrole $border-color;
+  font-size: $font-size;
+  font-weight: $font-weight;
+  font-family: $font-family;
+}
