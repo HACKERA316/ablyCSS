@@ -7,8 +7,4 @@
 */
 @import 'scss/general';
 @import 'scss/mixins';
-
-
-body {
-  @include resetablycss(0, 0, border-box, none, 10px, solid, white, 20px, 200, Roboto);
-}
+@import 'scss/colors';
